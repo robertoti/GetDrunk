@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         Nilton clone2
         <?php
-        echo"Commit do paulo1"
+        echo"<br/>"."Commit do paulo1"
         ?>
     </body>
 </html>
