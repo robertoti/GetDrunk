@@ -11,5 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         Nilton clone2
+        <?php
+        echo"Commit do paulo1"
+        ?>
     </body>
 </html>
