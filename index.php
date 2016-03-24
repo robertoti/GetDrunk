@@ -8,6 +8,8 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title>4Drink</title>
+        link:rel
+        
     </head>
     <body>
         <header>
@@ -16,7 +18,8 @@ and open the template in the editor.
         Nilton clone2
         <?php
         echo"<br/>"."Commit do paulo1";
-         echo"<br/>"."Commit do paulo2"
+        echo"<br/>"."Commit do paulo2";
+        echo"<br/>"."Commit do paulo2";
         ?>
     </body>
 </html>
